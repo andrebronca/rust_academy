@@ -1,0 +1,12 @@
+última página lida: 
+data início leitura: 28/02/2024
+obs.: Já vai direto para exemplos, não aborda o início 
+do estudo da linguagem. Tradicional: Se vira, foda-se.
+
+Título: Beginning Rust Programming
+Quantidade de páginas: 416
+Ano de publicação: 2021
+
+    Código fonte do livro:
+git clone https://github.com/securitykilroy/rust.git
+

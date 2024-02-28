@@ -1,0 +1,15 @@
+Criar um projeto com cargo
+> cargo new nome_projeto
+
+Compilar o projeto
+> cargo build
+
+Compilar e executar
+> cargo run
+
+Verificar se irá compilar
+> cargo check
+
+Compilando com release
+> cargo build --release
+

@@ -1,0 +1,11 @@
+última página lida: 
+data início leitura: 28/02/2024
+
+Título: The Rust Programming Language 2nd edition
+Autores: Steve Klabnik, Carol Nichols
+Quantidade de páginas: 818
+Ano de publicação: 2021
+
+    Código fonte do livro:
+https://nostarch.com/rust-programming-language-2nd-edition.
+
