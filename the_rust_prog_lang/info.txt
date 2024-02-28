@@ -13,3 +13,5 @@ Verificar se irá compilar
 Compilando com release
 > cargo build --release
 
+Gerar documentação de todas as dependencias
+> cargo doc --open
